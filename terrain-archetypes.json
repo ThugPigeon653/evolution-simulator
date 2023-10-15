@@ -1,0 +1,44 @@
+{
+    "Forest": {
+        "name":"Forest",
+        "temperature":25.0,
+        "precipitation":100.0,
+        "vegetation_density":0.8
+    },
+    "Desert": {
+        "name":"Desert",
+        "temperature":35.0,
+        "precipitation":10.0,
+        "vegetation_density":0.1
+    },
+    "Mountain": {
+        "name":"Mountain",
+        "temperature":15.0,
+        "precipitation":80.0,
+        "vegetation_density":0.4
+    },
+    "Grassland": {
+        "name":"Grassland",
+        "temperature":20.0,
+        "precipitation":60.0,
+        "vegetation_density":0.6
+    },
+    "Tundra": {
+        "name":"Tundra",
+        "temperature":0.0,
+        "precipitation":30.0,
+        "vegetation_density":0.2
+    },
+    "Swamp": {
+        "name":"Swamp",
+        "temperature":20.0,
+        "precipitation":150.0,
+        "vegetation_density":0.7
+    },
+    "Cave": {
+        "name":"Cave",
+        "temperature":10.0,
+        "precipitation":20.0,
+        "vegetation_density":0.0
+    }
+}
